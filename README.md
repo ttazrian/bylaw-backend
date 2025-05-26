@@ -15,8 +15,7 @@ The **Bylaw Backend** provides the core API and search engine functionality for 
 ## 🏗️ Architecture
 - **Python 3.x**
 - **FastAPI** for RESTful API endpoints.
-- **PostgreSQL** (or any preferred database) for data storage.
-- **Docker** (optional) for containerization and deployment.
+- **Firebase** for data storage.
 
 ---
 
